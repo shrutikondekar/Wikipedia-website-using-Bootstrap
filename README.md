@@ -1,1 +1,2 @@
 # Wikipedia-website-using-Bootstrap
+This project is a responsive, Wikipedia-inspired web page built using Bootstrap 5. It presents structured, encyclopedic content on Artificial Intelligence with a clean two-column layout—featuring a collapsible sidebar for easy navigation and a main content area formatted for readability. The design is optimized for both desktop and mobile devices, showcasing key sections such as Definition, History, Applications, Challenges, and Future Prospects of AI.
